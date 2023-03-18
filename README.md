@@ -1,0 +1,11 @@
+# learn-dynamodb
+- https://matt.martz.codes/lock-down-dynamodb-with-iam-policy-conditions
+- https://ddb.acloudfan.com/2.tools/10-setup-local-environment/
+- https://ddb.acloudfan.com/2.tools/10-setup-local-environment/
+- https://aws.amazon.com/blogs/mobile/building-fine-grained-authorization-using-amazon-cognito-user-pools-groups/
+- https://www.dynamodbtoolbox.com/docs#features
+- https://dynobase.dev/#features
+- https://www.dynamodbbook.com/
+- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html
+- https://aws.amazon.com/getting-started/hands-on/design-a-database-for-a-mobile-app-with-dynamodb/module-5/
+- https://matt.martz.codes/lock-down-dynamodb-with-iam-policy-conditions
