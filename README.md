@@ -9,3 +9,4 @@
 - https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html
 - https://aws.amazon.com/getting-started/hands-on/design-a-database-for-a-mobile-app-with-dynamodb/module-5/
 - https://matt.martz.codes/lock-down-dynamodb-with-iam-policy-conditions
+- youtube.com/watch?v=432thqUKs-Y&list=PLNqp92_EXZBLr7p7hn6IYa1YPNs4yJ1t1&index=2
