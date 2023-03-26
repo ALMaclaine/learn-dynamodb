@@ -10,3 +10,4 @@
 - https://aws.amazon.com/getting-started/hands-on/design-a-database-for-a-mobile-app-with-dynamodb/module-5/
 - https://matt.martz.codes/lock-down-dynamodb-with-iam-policy-conditions
 - https://ddb.acloudfan.com/
+- https://www.youtube.com/watch?v=rlypcHUlsao
