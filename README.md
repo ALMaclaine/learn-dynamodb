@@ -11,3 +11,7 @@
 - https://matt.martz.codes/lock-down-dynamodb-with-iam-policy-conditions
 - https://ddb.acloudfan.com/
 - https://www.youtube.com/watch?v=rlypcHUlsao
+- https://www.youtube.com/watch?v=EKX0F9QtThk
+- https://www.youtube.com/watch?v=BnDKD_Zv0og
+- https://www.youtube.com/watch?v=HkbeKhKjEDU
+- https://www.youtube.com/watch?v=HSDKN43Vx7U
